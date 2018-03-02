@@ -29,7 +29,7 @@ const STOP_MESSAGE = 'Goodbye!';
 //TODO: Replace this data with your own.  You can find translations of this data at http://github.com/alexa/skill-sample-node-js-fact/lambda/data
 //=========================================================================================================================================
 const data = [
-  'Istanbul in Turkey is the only city on the world that is located on two continents. A canal of the Bosphorous River separates the European side from the Asian side.',
+  'Istanbul, Turkey is the only city on the world that is located on two continents. A canal of the Bosphorous River separates the European side from the Asian side.',
   'The Grand Canyon is the world\'s largest canyon.',
   'Russia is the largest country in the world.',
   'Canada is the second largest country in the world.',
