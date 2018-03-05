@@ -146,6 +146,7 @@ exports.handler = function(event, context, callback) {
 const handlers = {
     'LaunchRequest': function () {
         this.emit('GetNewFactIntent');
+        
     },
     'GetNewFactIntent': function () {
         const factArr = data;

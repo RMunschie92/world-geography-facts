@@ -16,19 +16,21 @@
       "name": "GetNewFactIntent",
       "samples": [
         "a fact",
-        "a space fact",
+        "a geography fact",
+        "a world geography fact"
         "tell me a fact",
-        "tell me a space fact",
+        "tell me a geography fact",
+        "tell me a world geography fact",
         "give me a fact",
-        "give me a space fact",
+        "give me a geography fact",
         "tell me trivia",
-        "tell me a space trivia",
+        "tell me world geography trivia",
         "give me trivia",
-        "give me a space trivia",
+        "give me geography trivia",
+        "give me world geography trivia",
         "give me some information",
-        "give me some space information",
+        "give me some world geography information",
         "tell me something",
-        "give me something"
       ],
       "slots": []
     }

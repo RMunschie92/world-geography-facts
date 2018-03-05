@@ -1,0 +1,42 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "geographie fakten",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "eine tatsache",
+            "eine geographie-tatsache",
+            "eine welt geographie-tatsache",
+            "erzähl mir eine tatsache",
+            "erzähl mir eine geographie-tatsache",
+            "erzähl mir eine welt geographie-tatsache",
+            "gib mir eine tatsache",
+            "gib mir eine geografie-tatsache",
+            "erzähl mir eine kleinigkeiten",
+            "erzähl mir eine welt geographie kleinigkeiten",
+            "erzähl mir eine geographie kleinigkeiten",
+            "gib mir eine kleinigkeiten",
+            "gib mir eine welt geographie kleinigkeiten",
+            "gib mir eine geographie kleinigkeiten",
+            "erzähl mir etwas"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}
