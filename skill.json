@@ -19,6 +19,40 @@
           "name": "World Geography Facts",
           "description": "Ask for world geography Facts, and learn practical geography facts along with fun, fascinating facts.\n\nworld geography Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch world geography Facts\" or \"Alexa, open world geography Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         },
+        "en-AU": {
+          "summary": "Learn fun facts about world geography.",
+          "examplePhrases": [
+            "Alexa open world geography facts",
+            "Alexa ask world geography facts for a fact",
+            "Alexa tell world geography facts to tell me trivia"
+          ],
+          "keywords": [
+            "world geography",
+            "countries",
+            "geography",
+            "facts",
+            "trivia"
+          ],
+          "name": "World Geography Facts",
+          "description": "Ask for world geography Facts, and learn practical geography facts along with fun, fascinating facts.\n\nworld geography Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch world geography Facts\" or \"Alexa, open world geography Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "en-CA": {
+          "summary": "Learn fun facts about world geography.",
+          "examplePhrases": [
+            "Alexa open world geography facts",
+            "Alexa ask world geography facts for a fact",
+            "Alexa tell world geography facts to tell me trivia"
+          ],
+          "keywords": [
+            "world geography",
+            "countries",
+            "geography",
+            "facts",
+            "trivia"
+          ],
+          "name": "World Geography Facts",
+          "description": "Ask for world geography Facts, and learn practical geography facts along with fun, fascinating facts.\n\nworld geography Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch world geography Facts\" or \"Alexa, open world geography Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
         "en-GB": {
           "summary": "Learn fun facts about world geography.",
           "examplePhrases": [
@@ -36,7 +70,24 @@
           "name": "World Geography Facts",
           "description": "Ask for world geography Facts, and learn practical geography facts along with fun, fascinating facts.\n\nworld geography Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch world geography Facts\" or \"Alexa, open world geography Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         },
-        "en-DE": {
+        "en-IN": {
+          "summary": "Learn fun facts about world geography.",
+          "examplePhrases": [
+            "Alexa open world geography facts",
+            "Alexa ask world geography facts for a fact",
+            "Alexa tell world geography facts to tell me trivia"
+          ],
+          "keywords": [
+            "world geography",
+            "countries",
+            "geography",
+            "facts",
+            "trivia"
+          ],
+          "name": "World Geography Facts",
+          "description": "Ask for world geography Facts, and learn practical geography facts along with fun, fascinating facts.\n\nworld geography Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch world geography Facts\" or \"Alexa, open world geography Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "de-DE": {
           "summary": "Lerne lustige Fakten über die Weltgeographie.",
           "examplePhrases": [
             "Alexa offene Welt Geographie Fakten",
